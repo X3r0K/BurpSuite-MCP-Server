@@ -167,7 +167,8 @@ The server will start on http://localhost:8000
 For detailed API documentation, visit:
 - Swagger UI: http://localhost:8000/docs
 - ReDoc: http://localhost:8000/redoc
-![image.png](attachment:90b1450d-01bd-4c19-b9a3-67fa0259fd86:image.png)
+![image](https://github.com/user-attachments/assets/a9af7fb9-b840-40ef-b8b7-b24a9bcbc72a)
+
 
 ## Cursor Integration
 
@@ -205,9 +206,11 @@ The server will be accessible at `http://localhost:8000` with the following endp
 - `/logger` for logging functionality
 - `/logger/vulnerabilities/severity` for vulnerability analysis
 
-![image.png](attachment:5d3d301e-43af-4e67-ab89-c6f211be7f5c:image.png)
+![image](https://github.com/user-attachments/assets/7e006b2a-a9f7-4d09-85da-fd6fea5d352c)
 
-![image.png](attachment:3f3ae577-02f1-49fa-a12b-f9d9bf71ffa6:image.png)
+
+![image](https://github.com/user-attachments/assets/e3376c42-5966-4fe8-a1d0-08916bd60b06)
+
 
 ## 📝 License
 
