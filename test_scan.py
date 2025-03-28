@@ -5,7 +5,7 @@ import time
 def start_scan():
     url = "http://localhost:8000/scanner/start"
     payload = {
-        "target_url": "https://sso.8x8.com",
+        "target_url": "https://target.com",
         "scan_type": "active",
         "scan_configurations": {
             "scope": "strict",
