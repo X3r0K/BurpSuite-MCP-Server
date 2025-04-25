@@ -6,7 +6,7 @@ A powerful Model Context Protocol (MCP) server implementation for BurpSuite, pro
 <a href="https://glama.ai/mcp/servers/@X3r0K/BurpSuite-MCP-Server">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@X3r0K/BurpSuite-MCP-Server/badge" />
 </a>
-##
+
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
