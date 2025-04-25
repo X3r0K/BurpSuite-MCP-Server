@@ -1,7 +1,8 @@
 # 🛡️ BurpSuite MCP Server
 
 A powerful Model Context Protocol (MCP) server implementation for BurpSuite, providing programmatic access to Burp's core functionalities.
-##
+
+####
 <a href="https://glama.ai/mcp/servers/@X3r0K/BurpSuite-MCP-Server">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@X3r0K/BurpSuite-MCP-Server/badge" />
 </a>
