@@ -1,4 +1,4 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/x3r0k-burpsuite-mcp-server)
+
 
 # 🛡️ BurpSuite MCP Server
 
@@ -9,6 +9,7 @@ A powerful Model Context Protocol (MCP) server implementation for BurpSuite, pro
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@X3r0K/BurpSuite-MCP-Server/badge" />
 </a>
 
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/x3r0k-burpsuite-mcp-server)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
